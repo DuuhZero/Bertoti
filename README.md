@@ -31,7 +31,7 @@ Foco inicial em domínios específicos para validação do conceito:
 |------------------|----------|--------|
 | **Eduardo Fontes** | [🔗 Perfil](https://www.linkedin.com/in/eduardo-da-silva-fontes/) | [💻 DuuhZero](https://github.com/DuuhZero) |
 | **João França**    | [🔗 Perfil](https://www.linkedin.com/in/joão-pedro-frança-alves-de-souza-8700a62b3/) | [💻 jofran2001](https://github.com/jofran2001) |
-| **João Rossi**     | [🔗 Perfil](https://www.linkedin.com/in/eduardo-da-silva-fontes/) | [💻 DuuhZero](https://github.com/joaorossiferreira) |
+| **João Rossi**     | [🔗 Perfil](https://www.linkedin.com/in/eduardo-da-silva-fontes/) | [💻 joaorossiferreira](https://github.com/joaorossiferreira) |
 | **Paulo Almeida**  | [🔗 Perfil](https://www.linkedin.com/in/paulo-almeida-3102452a7/) | [💻 pauloalmeida46](https://github.com/pauloalmeida46) |
 
 ---
