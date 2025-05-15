@@ -59,9 +59,9 @@ Foco inicial em domínios específicos para validação do conceito:
  ```
  - Navegue até o diretório e instale as dependências:
  ```shell
- cd negocios-python-main
+ cd Bertoti
 
- cd requisitos-para-codigo
+ cd src
 
  pip install -r requirements.txt
 ```
