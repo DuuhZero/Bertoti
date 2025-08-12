@@ -1,6 +1,6 @@
 # 🚀 Tradutor de Regras de Negócio para Código Python
 
-## 🤖 Trabalho IA Agente IHC - Conversor Inteligente de Requisitos
+Conversor Inteligente de Requisitos
 
 **Objetivo:** Desenvolver um agente inteligente capaz de interpretar regras de negócio em linguagem natural e convertê-las automaticamente em código Python funcional.
 
@@ -38,8 +38,7 @@ Foco inicial em domínios específicos para validação do conceito:
 
 ## 🛠 Tecnologias Previstas
 - Processamento de Linguagem Natural (NLP)
-- Framework Rasa ou similar
-- Python 3.x
+- Python 3.12
 - Git para controle de versão
 
 *"Transformando requisitos em implementações de forma inteligente"* 🤖💡
@@ -59,7 +58,7 @@ Foco inicial em domínios específicos para validação do conceito:
  ```
  - Navegue até o diretório e instale as dependências:
  ```shell
- cd Bertoti
+ cd llm-business-rules
 
  cd src
 
